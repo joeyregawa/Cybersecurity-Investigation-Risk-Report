@@ -60,7 +60,7 @@ As a cybersecurity consultant, you understand that conducting a risk assessment 
 The goal of the risk assessment is to help the client prioritise and implement appropriate security measures to mitigate and minimise risks. This will ensure the confidentiality, integrity and availability of their information and systems, as well as protect their reputation and financial resources. Ultimately, your work will help the client comply with regulatory and legal requirements and standards and provide peace of mind knowing that their security is being handled by a knowledgeable and experienced cybersecurity expert.
 
 ## Solution Risk Assessment
-
+The answer can be found on the attachment (Joey Regawa - Risk Assessment.xlsx).
 
 ## To complete this task, you will need to:
 
